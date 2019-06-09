@@ -1,1 +1,1 @@
-Read ans summary interested daily-astoph papers
+Read and summarize interested daily-astoph papers
