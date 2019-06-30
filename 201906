@@ -1,15 +1,22 @@
-# Astro-ph Notes
 
----- Song Huang ----
+---- Ning Jiang ----
 
 ## 2019-June
 
 ----
 
-### June 2
+### June 26
 
-* [Photoevaporation of Jeans unstable clumps by FUV radiation](https://arxiv.org/abs/1905.13230)
-  * 外加的FUV辐射场很难完全阻止10-200Msun的分子气体团块的坍缩，但是可以控制最后用于形成恒星的气体质量
-  * For example, for G0<104 more than 10% of the initial clump mass survives
-  * 对于大质量的分子气体团块，H2质量在坍缩过程中还会增加。可能是在过程中因为H2 self-shielding形成的
+* [The Sloan Digital Sky Survey Reverberation Mapping Project: Accretion and Broad Emission Line Physics from a Hypervariable Quasar](https://arxiv.org/abs/1906.10138)
+We analyze extensive spectroscopic and photometric data of the hypervariable quasar SDSS J131424+530527 (RMID 017) at z=0.456, 
+an optical "changing look" quasar from the Sloan Digital Sky Survey Reverberation Mapping project that increased 
+in optical luminosity by a factor of 10 between 2014 and 2017. The observed broad emission lines all respond 
+in luminosity and width to the changing optical continuum, as expected for photoionization in a stratified, 
+virialized broad emission line region. The luminosity changes therefore result from intrinsic changes 
+in accretion power rather than variable obscuration. The variability is continuous and apparently stochastic, 
+disfavoring an origin as a discrete event such as a tidal disruption flare or microlensing event. 
+It is coordinated on day timescales with blue leading red, consistent with reprocessing powering the entire optical SED. 
+We show that this process cannot work in a standard thin disk geometry on energetic grounds, 
+and would instead require a large covering factor reprocessor. Disk instability models could potentially 
+also explain the data, provided that the instability sets in near the inner radius of a geometrically thick accretion disk.
 
